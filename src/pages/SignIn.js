@@ -13,7 +13,6 @@ const SignIn = () => {
                     createdAt:firebase.database.ServerValue.TIMESTAMP
                 })
             }
-            
         }
         catch(err)
         {
